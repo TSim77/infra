@@ -1,7 +1,7 @@
 org_name   = "revature1"
 team_name  = "python-devops1"
 project_id = "interview-lab1"
-region     = "us-east-1"
+region     = "us-east-2"
 env = {
   "dev" = "dev"
   "qa"  = "qa"
