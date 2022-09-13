@@ -1,6 +1,6 @@
-org_name   = "revature2"
-team_name  = "python-devops2"
-project_id = "interview-lab2"
+org_name   = "revature3"
+team_name  = "python-devops3"
+project_id = "interview-lab3"
 region     = "us-east-1"
 env = {
   "dev" = "dev"
